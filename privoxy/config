@@ -28,3 +28,4 @@ debug   8192 # Errors - *we highly recommended enabling this*
 #admin-address privoxy-admin@example.com
 #proxy-info-url http://www.example.com/proxy-service.html
 
+forward-socks4a ctunnel:8008
